@@ -1,3 +1,3 @@
 THORNROSE
 ====================================
-A python application is used for financial management.
+Python utility for financial management.
